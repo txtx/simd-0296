@@ -5,6 +5,7 @@
   "network_url": "https://simd-0296.surfnet.dev:8899",
   "rpc_url": "https://simd-0296.surfnet.dev:8899",
   "ws_url": "https://simd-0296.surfnet.dev:8900",
+  "explorer_cluster_query": "cluster=simd296",
   "network_banner_image_url": "simd-0296/banner.jpg",
   "network_logo_image_url": "simd-0296/logo.jpg",
   "primary_color": "#8B5CF6",
