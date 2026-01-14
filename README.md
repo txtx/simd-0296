@@ -5,13 +5,22 @@
 You can start sending larger transactions immediately using either @solana/kit
 or @solana/web3.js.
 
-The @solana/kit version doesn't matter, but if you're using @solana/web3.js, 
-use:
+If you're using @solana/web3.js, use:
 
 ```json
 {
   "dependencies": {
     "@solana/web3.js": "1.98.4-experimental.3"
+  }
+}
+```
+
+If you're using @solana/kit, use:
+
+```json
+{
+  "dependencies": {
+    "@solana/kit": "5.1.0-experimental-20251205104522"
   }
 }
 ```
